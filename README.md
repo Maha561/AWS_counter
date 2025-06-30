@@ -29,6 +29,7 @@ A simple desktop counter application built using **Java AWT (Abstract Window Too
 - **AWT (Abstract Window Toolkit)** – For building the GUI
 
 ---
+connect with me on linkedin : https://www.linkedin.com/in/mahalakshmi-anandan
 
 ## 🚀 Getting Started
 
@@ -43,4 +44,3 @@ java Simple
 
 ---
 
-connect with me on linkedin : https://www.linkedin.com/in/mahalakshmi-anandan
